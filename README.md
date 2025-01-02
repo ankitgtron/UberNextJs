@@ -106,11 +106,11 @@ This project is structured to ensure a systematic and incremental development pr
 - **Goal:** Allow users to select vehicles and calculate fares based on distance.
 - **Tasks:**
   1. Implement a vehicle selection feature with real-time fare updates.
-     - **Reading:** [React State Management](https://reactjs.org/docs/state-and-lifecycle.html)
-     - **Video:** [Dynamic Pricing in React](https://www.youtube.com/watch?v=8sRJJtOHdC8)
+     - **Reading:** [Next State Management](https://nextjs.org/docs/app/building-your-application/rendering)
+     - **Video:** [Dynamic Pricing in Next](https://www.youtube.com/watch?v=_gRxCvDjWjs)
   2. Build a fare calculation system using Google Maps Distance Matrix API.
      - **Reading:** [Distance Matrix API Docs](https://developers.google.com/maps/documentation/distance-matrix)
-     - **Video:** [Distance Matrix Tutorial](https://www.youtube.com/watch?v=oPpQBoEms2U)
+     - **Video:** [Distance Matrix Tutorial](https://www.youtube.com/watch?v=bt_mQrv02YQ)
 
 - **Deliverables:**
   - Functional vehicle selection and fare calculation system.
