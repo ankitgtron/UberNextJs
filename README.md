@@ -62,10 +62,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Initialize a Next.js project and configure Tailwind CSS.
      - **Reading:** [Next.js Docs](https://nextjs.org/docs/getting-started)
-     - **Video:** [Next.js with Tailwind Setup](https://www.youtube.com/watch?v=stc6WktH9ko)
+     - **Video:** [Next.js with Tailwind Setup](https://www.youtube.com/watch?v=ZVnjOPwW4ZA&t=178s)
   2. Build a responsive homepage with a login/signup option using Clerk.
      - **Reading:** [Clerk Documentation](https://clerk.dev/docs)
-     - **Video:** [Clerk Setup Guide](https://www.youtube.com/watch?v=fTJ5J0OYZ7k)
+     - **Video:** [Clerk Setup Guide](https://www.youtube.com/watch?v=RHFmsoiVtKE&t=3s)
 
 - **Deliverables:**
   - Basic project setup with a functional homepage and authentication.
@@ -77,10 +77,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Configure Clerk for social logins (Google, Facebook, Microsoft).
      - **Reading:** [Clerk Social Logins](https://clerk.dev/docs/social-logins)
-     - **Video:** [Adding Social Logins](https://www.youtube.com/watch?v=jJglwk0OKwA)
+     - **Video:** [Adding Social Logins](https://www.youtube.com/watch?v=pjFbcXi8eCM&t=88s)
   2. Build login and signup pages.
-     - **Reading:** [React Forms](https://reactjs.org/docs/forms.html)
-     - **Video:** [Building Forms in React](https://www.youtube.com/watch?v=XY5ROPrBuqo)
+     - **Reading:** [Next Forms](https://nextjs.org/docs/app/api-reference/components/form)
+     - **Video:** [Building Forms in Next](https://www.youtube.com/watch?v=KhO4VjaYSXU)
 
 - **Deliverables:**
   - Functional login/signup pages with social login integration.
@@ -94,8 +94,8 @@ This project is structured to ensure a systematic and incremental development pr
      - **Reading:** [Google Maps API Docs](https://developers.google.com/maps/documentation)
      - **Video:** [Google Maps Integration](https://www.youtube.com/watch?v=3zvF5uYsswI)
   2. Create a dynamic map component for displaying routes and markers.
-     - **Reading:** [React Google Maps Guide](https://react-google-maps-api-docs.netlify.app/)
-     - **Video:** [React Google Maps Tutorial](https://www.youtube.com/watch?v=Pf7g32CwX_s)
+     - **Reading:** [Next Google Maps Guide](https://dev.to/adrianbailador/creating-an-interactive-map-with-the-google-maps-api-in-nextjs-54a4)
+     - **Video:** [Next Google Maps Tutorial](https://www.youtube.com/watch?v=LgTan_NZnAg)
 
 - **Deliverables:**
   - Dynamic map displaying routes and location markers.
@@ -122,10 +122,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**
   1. Configure Stripe for secure payments.
      - **Reading:** [Stripe API Documentation](https://stripe.com/docs)
-     - **Video:** [Stripe Integration Guide](https://www.youtube.com/watch?v=3VSWrm9V8-s)
+     - **Video:** [Stripe Integration Guide](https://www.youtube.com/watch?v=fgbEwVWlpsI)
   2. Deploy the application on Vercel.
      - **Reading:** [Vercel Deployment Guide](https://vercel.com/docs)
-     - **Video:** [Deploying Next.js Apps](https://www.youtube.com/watch?v=K7W7e6GtO5c)
+     - **Video:** [Deploying Next.js Apps](https://www.youtube.com/watch?v=2HBIzEx6IZA&t=10s)
 
 - **Deliverables:**
   - Fully deployed Uber Clone Web App with payment functionality.
